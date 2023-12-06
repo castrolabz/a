@@ -1,2 +1,2 @@
 # Conflito
-Corrigindo conflito
+Conflito corrigido
